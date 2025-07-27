@@ -21,10 +21,21 @@ Here’s how the clone looks:
 - CSS3 (Flexbox, Grid, Media Queries)
 
 ## 📂 Getting Started
+To view or run this project locally, follow these simple steps:
 
-1. Clone the repository:
+1.Clone the repository:
 
-   ```bash
-   git clone https://github.com/Priyak456/Spotify-clone.git
+git clone https://github.com/Priyak456/spotify-clone.git
 
-2. Open the folder and launch index.html in your browser.
+2.Navigate to the project directory:
+
+cd spotify-clone
+
+3.Open the index.html file in your browser.
+
+## 📬 Connect with Me
+Feel free to connect with me!
+
+LinkedIn: linkedin.com/in/priya482/
+
+GitHub: github.com/Priyak456
